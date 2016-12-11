@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{A3AEA932-BD4B-434D-8A87-2063D52D53E0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="relativeview/RelativePage.cs" Line="1" Column="1" />
+      <File FileName="relativeview/relativeview.cs" Line="19" Column="10" />
+      <File FileName="Droid/MainActivity.cs" Line="18" Column="35" />
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.ItemProperties.relativeview.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
